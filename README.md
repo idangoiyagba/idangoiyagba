@@ -1,3 +1,7 @@
+
+<img width="2000" height="600" alt="Black Grey Sleek Scrapbook General Linkedin Banner" src="https://github.com/user-attachments/assets/3ac10f65-a88b-4a4a-9377-fae349534c14" />
+
+
 <h1 align="center">Hi 👋, I'm Idango Iyagba</h1>
 <h3 align="center">A passionate frontend developer located in Vancouver</h3>
 
