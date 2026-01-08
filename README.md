@@ -22,11 +22,16 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/idango"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/idango" /></a>
-(https://github.com/user-attachments/assets/b92d436b-a0a9-4ab1-9f38-34dff0137422)
-  (https://github.com/user-attachments/assets/35006dfc-c7ec-406c-9f81-60eb935dabd9)
 
-  
   <a href="https://ko-fi.com/https://buymeacoffee.com/idango"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://buymeacoffee.com/idango" /></a></p><br><br>
+ 
+
+![space boy developer](https://github.com/user-attachments/assets/de9d0de9-da3f-4ce6-b9ba-371e7cc160d4)
+ ![developer](https://github.com/user-attachments/assets/3c9b1b9b-7a51-472d-927f-217bbc0c52e5)
+
+![your_cool_intro (1)](https://github.com/user-attachments/assets/c77f068f-2873-4055-bc74-234521c0ebe8)
+
+
 
 
 
