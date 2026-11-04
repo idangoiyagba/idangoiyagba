@@ -1,5 +1,5 @@
 
-<img width="2000" height="600" alt="Black Grey Sleek Scrapbook General Linkedin Banner" src="https://github.com/user-attachments/assets/<img width="2172" height="724" alt  src="https://github.com/user-attachments/assets/9c4166ad-1df7-4a7b-b684-d5c69c0ee874" />
+<img width="2172" height="724" alt  src="https://github.com/user-attachments/assets/9c4166ad-1df7-4a7b-b684-d5c69c0ee874" />
 
 
 
