@@ -4,41 +4,347 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Idango Iyagba</h1>
-<h3 align="center">A passionate frontend developer located in Vancouver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idangoiyagba&label=Profile%20views&color=0e75b6&style=flat" alt="idangoiyagba" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/idangoiyagba" target="blank"><img src="https://img.shields.io/twitter/follow/idangoiyagba?logo=twitter&style=for-the-badge" alt="idangoiyagba" /></a> </p>
+# Hi 👋, I'm Idango Iyagba
 
-- 📫 How to reach me **idangoi@yahoo.com,**
+### AI Engineer · AI Solutions Architect · Product Builder
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/idangoiyagba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idangoiyagba" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/idangoiyagba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/idangoiyagba/" height="30" width="40" /></a>
+**I build AI-powered systems that turn complex problems into practical, reliable products.**
+
+📍 Vancouver, BC, Canada
+
+<br>
+
+<a href="https://www.linkedin.com/in/idangoiyagba/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:idangoi@yahoo.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/idangoiyagba?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=idangoiyagba&label=Profile%20Views&color=7c3aed&style=flat-square">
+
+</div>
+
+---
+
+## 👨‍💻 A Little About Me
+
+I'm a product-minded engineer combining **AI engineering, software development, industrial design, and technical project delivery**.
+
+I enjoy the full journey of turning an idea into something people can actually use, from understanding the problem and designing the system to building APIs, integrating AI, testing reliability, and improving the user experience.
+
+My current focus is on:
+
+- 🧠 **LLM applications:** RAG, hybrid search, embeddings, grounded answers, and evaluation.
+- 🤖 **AI agents:** Tool calling, agent orchestration, multi-agent workflows, and automation.
+- ⚙️ **Production engineering:** Python, FastAPI, databases, containers, and cloud infrastructure.
+- 🛡️ **Trustworthy AI:** Security, guardrails, access controls, monitoring, and failure recovery.
+- 📊 **AI performance:** Observability, latency, token usage, cost, and system reliability.
+- 🎨 **Product experience:** Intuitive interfaces, interactive dashboards, and useful AI products.
+
+> **My approach:** Solve the right problem. Design the system thoughtfully. Build something useful. Measure its performance. Keep improving.
+
+<br>
+
+---
+
+## 🧠 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 Intelligent Search
+
+RAG pipelines, hybrid retrieval, vector databases, reranking, citations, and answer evaluation.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Agentic Systems
+
+AI agents that use tools, coordinate workflows, manage state, and recover from failures.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### ☁️ Production AI
+
+APIs, containers, deployment, monitoring, security, and reliable infrastructure.
+
+</td>
+<td valign="top">
+
+### 📊 AI Optimization
+
+Latency, token consumption, model routing, evaluation, and cost-aware engineering.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🛠️ My Engineering Toolkit
+
+A curated mix of AI engineering, backend systems, cloud technologies, and product development tools.
+
+### 🧠 AI, Machine Learning & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=8" alt="AI and machine learning tools">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/idango"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/idango" /></a>
+`RAG` · `Hybrid Search` · `Embeddings` · `Vector Search` · `Agents` · `Evaluations`
 
-  <a href="https://ko-fi.com/https://buymeacoffee.com/idango"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://buymeacoffee.com/idango" /></a></p><br><br>
- 
+<br>
 
-![space boy developer](https://github.com/user-attachments/assets/de9d0de9-da3f-4ce6-b9ba-371e7cc160d4)
- ![developer](https://github.com/user-attachments/assets/3c9b1b9b-7a51-472d-927f-217bbc0c52e5)
+### ⚙️ Backend Engineering
 
-![your_cool_intro (1)](https://github.com/user-attachments/assets/c77f068f-2873-4055-bc74-234521c0ebe8)
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,dotnet,nodejs,express,postman&theme=dark&perline=8" alt="Backend engineering tools">
+</p>
 
+<br>
 
+### 🗄️ Databases & Storage
 
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,supabase&theme=dark&perline=8" alt="Databases">
+</p>
 
+`pgvector` · `Pinecone` · `FAISS` · `Qdrant` · `SQL`
 
+<br>
 
+### ☁️ Cloud, DevOps & Monitoring
 
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,git,github,githubactions,grafana,jenkins,vercel&theme=dark&perline=8" alt="Cloud and DevOps tools">
+</p>
 
+`CI/CD` · `Observability` · `Security` · `LLMOps` · `Cost Optimization`
+
+<br>
+
+### 🎨 Frontend, 3D & Product Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,threejs,tailwind,html,css,figma,blender&theme=dark&perline=8" alt="Frontend and design tools">
+</p>
+
+<br>
+
+---
+
+## 🚀 Featured Engineering Work
+
+<div align="center">
+
+**From AI infrastructure to user-facing products**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI Engineering Simulator
+
+An interactive environment for exploring realistic AI engineering challenges.
+
+**Technical focus**
+- RAG and retrieval failures
+- Agent and tool orchestration
+- Security and secrets
+- API performance and reliability
+- Monitoring and incident diagnosis
+
+**Stack:** Python · FastAPI · Docker · AI Agents
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 Hybrid Search & RAG
+
+Retrieval architectures that combine semantic search with keyword matching.
+
+**Technical focus**
+- Document ingestion
+- Embeddings and indexing
+- Hybrid retrieval
+- Source-grounded responses
+- Retrieval quality evaluation
+
+**Stack:** Python · Vector DBs · LLM APIs
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 📊 LLM Cost Autopilot
+
+Exploring techniques for measuring and optimizing AI operating costs.
+
+**Technical focus**
+- Token usage and spending
+- Model selection and routing
+- Caching and batching
+- Latency and throughput
+- Quality versus cost tradeoffs
+
+**Stack:** Python · APIs · Monitoring
+
+</td>
+<td valign="top">
+
+### 🤖 Agentic AI Workflows
+
+Building coordinated AI workflows using specialized agents and tools.
+
+**Technical focus**
+- Agent personas
+- Tool calling
+- State and orchestration
+- Structured outputs
+- Human approval and recovery
+
+**Stack:** Python · LangGraph · LLM APIs
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/idangoiyagba?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+---
+
+## 🏗️ How I Think About Engineering
+
+```text
+     UNDERSTAND THE PROBLEM
+               |
+               v
+        DESIGN THE SYSTEM
+               |
+               v
+       BUILD & INTEGRATE
+               |
+               v
+       EVALUATE & SECURE
+               |
+               v
+        DEPLOY & MONITOR
+               |
+               v
+       MEASURE & IMPROVE
+```
+
+| Engineering principle | Why it matters |
+|:--|:--|
+| 🎯 User value | Technology should solve a meaningful problem |
+| 🧪 Evaluation | Quality should be tested, not assumed |
+| 🛡️ Security | Permissions and safeguards belong in the design |
+| 📈 Observability | Failures, costs, and performance should be visible |
+| ⚡ Simplicity | Maintainable systems beat unnecessary complexity |
+| 🚀 Delivery | Useful products need to reach real users |
+
+<br>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=idangoiyagba&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idangoiyagba&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=idangoiyagba&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+
+</div>
+
+<br>
+
+---
+
+## 🌍 Beyond the Code
+
+My background in industrial design and project delivery influences how I approach engineering.
+
+I think about the **user experience, business constraints, system architecture, and operational reality** together.
+
+I am especially interested in the intersection of AI engineering, product development, and intelligent automation.
+
+<br>
+
+---
+
+## 🤝 Let's Build Something Useful
+
+<div align="center">
+
+I'm interested in AI engineering, AI solutions architecture, and technical product development opportunities.
+
+**Have an interesting engineering challenge or product idea? Let's connect.**
+
+<br>
+
+<a href="mailto:idangoi@yahoo.com">
+<img src="https://img.shields.io/badge/Email%20Me-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/idangoiyagba/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+### ☕ Support My Work
+
+If you enjoy my projects, experiments, or contributions, you can support my work here.
+
+<br>
+
+<a href="https://buymeacoffee.com/idango">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="Buy Me a Coffee">
+</a>
+
+<br><br>
+
+**Thanks for stopping by! 👋**
+
+</div>
 
 
