@@ -1,5 +1,6 @@
 
-<img width="2172" height="724" alt  src="https://github.com/user-attachments/assets/9c4166ad-1df7-4a7b-b684-d5c69c0ee874" />
+<img width="2172" height="724" alt="Idango Iyagba_ Production-Ready AI Systems" src="https://github.com/user-attachments/assets/d0b84f9f-8210-4513-b98b-83c5fe744c9d" />
+
 
 
 
