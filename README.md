@@ -1,5 +1,6 @@
 
-<img width="2000" height="600" alt="Black Grey Sleek Scrapbook General Linkedin Banner" src="https://github.com/user-attachments/assets/3ac10f65-a88b-4a4a-9377-fae349534c14" />
+<img width="2000" height="600" alt="Black Grey Sleek Scrapbook General Linkedin Banner" src="https://github.com/user-attachments/assets/<img width="2172" height="724" alt="Idango Iyagba AI Engineering Banner" src="https://github.com/user-attachments/assets/9c4166ad-1df7-4a7b-b684-d5c69c0ee874" />
+" />
 
 
 <h1 align="center">Hi 👋, I'm Idango Iyagba</h1>
